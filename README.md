@@ -1,29 +1,4 @@
 
-
-# 格姗知识圈导航网站
-
-一个基于 Spring Boot + Vue 前后端分离的导航网站系统，在线演示地址：[https://gesdh.cn](https://gesdh.cn)
-
-欢迎加群一起学习交流技术。
-
-QQ 群交流：673465233
-
-微信群：添加我微信：geshanintell，备注：格姗知识圈导航
-
-码云下载地址（国内推荐）：[https://gitee.com/geshanzsq/geshanzsq-nav](https://gitee.com/geshanzsq/geshanzsq-nav)
-
-Github 下载地址：[https://github.com/geshanzsq/geshanzsq-nav](https://github.com/geshanzsq/geshanzsq-nav)
-
-## 简介
-
-本项目是一个网站导航，网站内容均由[小格子](https://geshanzsq.com/)本人收集并整理。前端基于 Vue，后端使用 Spring Boot。目前只是基础版，没有开源自定义导航，大家可以根据此开源项目进行自定义导航开发。
-
-- 前端采用 Vue、Element UI。
-- 后端采用 Spring Boot、Spring Security、Redis & Jwt。
-- 权限认证使用 Jwt，支持多终端认证系统。
-- 支持加载动态权限菜单，多方式轻松权限控制。
-- 高效率开发，使用代码生成器可以一键生成前后端代码。
-
 ## 内置功能
 
 1. 用户管理：用户是系统操作者，该功能主要完成系统用户配置。
@@ -182,14 +157,10 @@ server {
 
 ```
 
-## License
-
-Copyright © 2020-2022 **[格姗知识圈导航](https://gesdh.cn)** Released under the **MIT License**.
-
-> 注：本导航开源的目的是大家能够在本站的基础之上有所启发，做出更多新的东西，比如自定义导航。并不是让大家照搬所有代码。 如果你使用这个开源项目，请**注明**本项目开源地址。
-
 ## 感谢
 
 若依后台管理系统：[RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue)
 
 花裤衩：[vue-element-admin](https://gitee.com/panjiachen/vue-element-admin)
+
+格姗知识圈导航: [https://gesdh.cn]
